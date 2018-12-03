@@ -1,0 +1,6 @@
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\bin\Debug\DiBox.Core.dll
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\bin\Debug\DiBox.Core.pdb
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\obj\Debug\DiBox.Core.csprojAssemblyReference.cache
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\obj\Debug\DiBox.Core.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\obj\Debug\DiBox.Core.dll
+C:\Users\Crash\source\repos\DiBox\DiBox.Core\obj\Debug\DiBox.Core.pdb
